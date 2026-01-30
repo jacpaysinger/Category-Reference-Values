@@ -1,4 +1,4 @@
-# Add Category and Reference Values for Incident Routing
+# Adding Category and Reference Values for Incident Routing
 
 ## Overview
 This repository demonstrates how to extend Incident categorization and routing in ServiceNow by adding dependent Category and Subcategory values, creating Service and Service Offering records, and enabling automatic assignment of Incidents based on Service configuration.
